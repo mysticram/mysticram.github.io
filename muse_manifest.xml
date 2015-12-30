@@ -1,0 +1,27 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mysticram.ga" resolutions="1x,2x" timestamp="1451507959494">
+  <folder name="css">
+    <file name="site_global.css" crc="85401330"/>
+    <file name="master_a-master.css" crc="258961176" ref="index:contact:about"/>
+    <file name="index.css" crc="4001791967" ref="index"/>
+    <file name="contact.css" crc="418019395" ref="contact"/>
+    <file name="about.css" crc="477222723" ref="about"/>
+  </folder>
+  <folder name="fonts">
+    <file name="montserrat-bold.woff" crc="4253364445"/>
+    <file name="montserrat-bold.eot" crc="3840817547"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about:contact"/>
+    <file name="museutils.js" crc="275725342" ref="index:about:contact"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:about:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="cover.jpg" crc="4084069756" seo="true" ref="index"/>
+    <file name="cover_2x.jpg" crc="4281335889" seo="true" ref="index"/>
+    <file name="whitelogotrans.png" crc="4090079500" seo="true" ref="index:about:contact"/>
+    <file name="whitelogotrans_2x.png" crc="3938149317" seo="true" ref="index:about:contact"/>
+  </folder>
+  <file name="index.html" crc="463045736" seo="true" mt="1451507803451" redirect="true"/>
+  <file name="about.html" crc="3809259400" seo="true" mt="1451507803451" redirect="true"/>
+  <file name="contact.html" crc="171143336" seo="true" mt="1451507803451" redirect="true"/>
+</manifest>

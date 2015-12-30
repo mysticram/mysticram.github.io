@@ -1,0 +1,45 @@
+#u99
+{
+	background-color: #000000;
+	opacity: 0.25;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
+	filter: alpha(opacity=25);
+	position: fixed;
+}
+
+#u116
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u100-11
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	font-family: '__Montserrat_5';
+	font-weight: 700;
+	position: relative;
+}
+
+#u93
+{
+	background-color: transparent;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	position: fixed;
+}
+
+#u93:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
